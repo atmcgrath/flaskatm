@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hello</title>
+        <link rel="stylesheet" href="/static/style.css" />
+    </head>
+    <body>
+        <h1>Welcome to my web app!</h1>
+        <p><a href="/hello">Say hello</a></p>
+        <p><a href="/astros">Learn about astronauts</a></p>
+        <p><a href="/">Go home</a></p>
+        <div id="content">{% block content %}{% endblock %}</div>
+    </body>
+</html>
