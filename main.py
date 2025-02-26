@@ -2,8 +2,8 @@ from flask import Flask
 from markupsafe import escape
 from flask import render_template
 import requests
-import random
-from lxml import html, etree
+#import random
+#from lxml import html, etree
 
 app = Flask(__name__)
 
