@@ -1,5 +1,5 @@
 from flask import Flask
-from markupsafe import escape
+from markupsafe import escape, Markup
 from flask import render_template
 import requests
 import csv
@@ -36,7 +36,7 @@ def lady_susan():
             l = '<li>'+ line[0] + '. ' + line[2] + '</li>\n'
             text+= l
         text += '</ul>'
-        return render_template('misc.html', text=text)
+        return render_template('misc.html', text=Markup(text))
             
 
 #     text = response.text
