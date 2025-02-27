@@ -2,6 +2,8 @@
 
 {% block content %}
 
-<p>{{ text }}</p>
+<div>
+    {{ text|safe }}
+</div>
 
 {% endblock %}

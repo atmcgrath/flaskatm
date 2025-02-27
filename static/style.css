@@ -1,19 +1,65 @@
 h1 {
     color:pink;
+    text-align: center;
 }
 
 a {
     color:lightcoral;
 }
 
+h2 {
+    color:pink;
+}
+
 body {
     background-color: black;
     color:aliceblue;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    max-width: 80%;
+    max-width: 75%;
     padding: 20px;
+    margin:auto;
+    display:block;
+}
+
+/* navigation bar */
+
+
+ul.nav {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: maroon;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    padding: 14px 16px;
+    background-color: maroon;
+    text-decoration: none;
+    color:white;
+}
+
+.nav li a:hover {
+    background-color: blueviolet;
 }
 
 #content {
-    background-color: darkblue:
+    /* background-color: darkblue; */
+}
+
+button {
+    border-radius: 10px;
+    background-color:blueviolet;
+    color: white;
+    font-size: 16px;
+    /* line-height: 36px; */
+    text-decoration: none;
+    display:inline-block;
+    padding: 15px 16px;
+    border:none;
 }

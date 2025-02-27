@@ -5,10 +5,15 @@
         <link rel="stylesheet" href="/static/style.css" />
     </head>
     <body>
-        <h1>Welcome to my web app!</h1>
-        <p><a href="/hello">Say hello</a></p>
-        <p><a href="/astros">Learn about astronauts</a></p>
-        <p><a href="/">Go home</a></p>
+        <header>
+            <h1>Awesome Web App</h1>
+            <ul class="nav">
+                <li><a href="/hello">Say hello</a></li>
+                <li><a href="/astros">Learn about astronauts</a></li>
+                <li><a href="/jane">Lady Susan</a></li>
+                <li><a href="/">Go home</a></li>
+            </ul>
+        </header>
         <div id="content">{% block content %}{% endblock %}</div>
     </body>
 </html>
