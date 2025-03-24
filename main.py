@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.after_request
 def add_security_headers(response):
-    response.headers['Content-Security-Policy'] = "default-src 'self';"
+    response.headers['Content-Security-Policy'] = "default-src 'self'; frame-ancestors 'self' digitalscholarship.brynmawr.edu;"
     return response
 
 @app.route("/")
