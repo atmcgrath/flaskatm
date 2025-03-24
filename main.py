@@ -8,6 +8,10 @@ import csv
 
 app = Flask(__name__)
 
+@app.after_request
+def add_security_headers(response):
+    response.headers['Content-Security-Policy'] = "default-src 'self';"
+    return response
 
 @app.route("/")
 def hello_world():
