@@ -33,7 +33,7 @@ def get_iss_people():
 @app.route('/jane/')
 #@app.route('/jane/<num>')
 def lady_susan():
-    with open('static/data/lady-susan.csv', 'r') as f:
+    with open('static/data/lady-susan-2.csv', 'r') as f:
         csv_reader = csv.reader(f)
         list_of_csv = list(csv_reader)
         text = '<h2>Lady Susan</h2>\n<ul>'

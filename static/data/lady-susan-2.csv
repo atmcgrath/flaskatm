@@ -1,0 +1,45 @@
+header,address,source,target,location,location-controlled,name,greeting
+I,Lady Susan Vernon to Mr. Vernon,Lady Susan Vernon,Mr. Vernon,"Langford, Dec",Langford,S. VERNON,"Your most obliged and affectionate sister,"
+II,Lady Susan Vernon to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Langford,Langford,S. VERNON,"Yours ever,"
+III,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,CATHERINE VERNON,
+IV,Mr. De Courcy to Mrs. Vernon,Mr. De Courcy,Mrs. Vernon,Parklands,Parklands,R. DE COURCY,"Your affectionate brother,"
+V,Lady Susan Vernon to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Churchhill,Churchhill,S. VERNON,"Ever yours,"
+VI,Mrs. Vernon to Mr. De Courcy,Mrs. Vernon,Mr. De Courcy,Churchhill,Churchhill,CATHERINE VERNON,"Yours, &c.,"
+VII,Lady Susan Vernon to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Churchhill,Churchhill,S. VERNON,"Yours ever,"
+VIII,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,CATHERINE VERNON,"I am, &c.,"
+IX,Mrs. Johnson to Lady S. Vernon,Mrs. Johnson,Lady Susan Vernon,Edward Street,Edward Street,ALICIA,"Yours faithfully,"
+X,Lady Susan Vernon to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Churchhill,Churchhill,S. VERNON,"Yours, &c.,"
+XI,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,CATHERINE VERNON,"Yours, &c.,"
+XII,Sir Reginald De Courcy to his Son,Sir Reginald De Courcy,Mr. De Courcy,Parklands,Parklands,REGINALD DE COURCY,"I am, &c., &c,"
+XIII,Lady De Courcy to Mrs. Vernon,Lady De Courcy,Mrs. Vernon,Parklands,Parklands,C. DE COURCY,"Your affectionate mother,"
+XIV,Mr. De Courcy to Sir Reginald,Mr. De Courcy,Sir Reginald De Courcy,Churchhill,Churchhill,R. DE COURCY,"I am, &c., &c.,"
+XV,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,CATHERINE VERNON,"Yours ever, &c.,"
+XVI,Lady Susan to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Churchhill,Churchhill,S. VERNON,"Yours ever,"
+XVII,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,CATHERINE VERNON,"I remain, &c., &c.,"
+XVIII,From the same to the same,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,C. VERNON,"Your affectionate daughter,"
+XIX,Lady Susan to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Churchhill,Churchhill,S. VERNON,"Yours ever,"
+XX,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,C. VERNON,"Yours, &c.,"
+XXI,Miss Vernon to Mr. De Courcy,Miss Vernon,Mr. De Courcy,"I am, Sir, your most humble servant,
+F. S. V",,,
+XXII,Lady Susan to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Churchhill,Churchhill,S. VERNON,Your affectionate
+XXIII,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,CATH. VERNON,"Yours ever, &c.,"
+XXIV,From the same to the same,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,CATHERINE VERNON,"Yours ever, &c.,"
+XXV,Lady Susan to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Churchhill,Churchhill,S. VERNON,Your most attached
+XXVI,Mrs. Johnson to Lady Susan,Mrs. Johnson,Lady Susan Vernon,Edward Street,Edward Street,ALICIA,"Adieu. Yours ever,"
+XXVII,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,C. VERNON,"Your affectionate, &c.,"
+XXVIII,Mrs. Johnson to Lady Susan,Mrs. Johnson,Lady Susan Vernon,Edward Street,Edward Street,ALICIA,"Yours ever,"
+XXIX,Lady Susan Vernon to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Upper Seymour Street,Upper Seymour Street,S. VERNON,"Yours ever,"
+XXX,Lady Susan Vernon to Mr. De Courcy,Lady Susan Vernon,Mr. De Courcy,Upper Seymour Street,Upper Seymour Street,S. VERNON,"I am, very faithfully yours,"
+XXXI,Lady Susan to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Upper Seymour Street,Upper Seymour Street,S. VERNON,
+XXXII,Mrs. Johnson to Lady Susan,Mrs. Johnson,Lady Susan Vernon,Edward Street,Edward Street,ALICIA,"Yours faithfully,"
+XXXIII,Lady Susan to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Upper Seymour Street,Upper Seymour Street,S. V,Adieu!
+XXXIV,Mr. De Courcy to Lady Susan,Mr. De Courcy,Lady Susan Vernon,—— Hotel,—— Hotel,R. DE COURCY,
+XXXV,Lady Susan to Mr. De Courcy,Lady Susan Vernon,Mr. De Courcy,Upper Seymour Street,Upper Seymour Street,S. V,
+XXXVI,Mr. De Courcy to Lady Susan,Mr. De Courcy,Lady Susan Vernon,—— Hotel,—— Hotel,R. DE COURCY,
+XXXVII,Lady Susan to Mr. De Courcy,Lady Susan Vernon,Mr. De Courcy,Upper Seymour Street,Upper Seymour Street,S. V,
+XXXVIII,Mrs. Johnson to Lady Susan Vernon,Mrs. Johnson,Lady Susan Vernon,Edward Street,Edward Street,ALICIA,"Your sincerely attached,"
+XXXIX,Lady Susan to Mrs. Johnson,Lady Susan Vernon,Mrs. Johnson,Upper Seymour Street,Upper Seymour Street,S. VERNON,
+XL,Lady De Courcy to Mrs. Vernon,Lady De Courcy,Mrs. Vernon,"Your affectionate mother,
+C. DE COURCY",,,
+XLI,Mrs. Vernon to Lady De Courcy,Mrs. Vernon,Lady De Courcy,Churchhill,Churchhill,C. VERNON,"Yours ever, &c.,"
+CONCLUSION,,,,,,,
