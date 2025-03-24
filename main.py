@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.after_request
 def add_security_headers(response):
-    response.headers['Content-Security-Policy'] = "default-src 'self'; frame-ancestors 'self' digitalscholarship.brynmawr.edu;"
+    response.headers['Content-Security-Policy'] = "default-src 'self'; frame-ancestors 'self' https://digitalscholarship.brynmawr.edu;"
     return response
 
 @app.route("/")
@@ -29,10 +29,11 @@ def get_iss_people():
         return render_template('astros.html', names=astro_names)
     else:
         return 'Not found'
+    
 @app.route('/jane/')
 #@app.route('/jane/<num>')
 def lady_susan():
-    with open('data/lady-susan.csv', 'r') as f:
+    with open('static/data/lady-susan.csv', 'r') as f:
         csv_reader = csv.reader(f)
         list_of_csv = list(csv_reader)
         text = '<h2>Lady Susan</h2>\n<ul>'
